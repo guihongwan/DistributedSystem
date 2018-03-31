@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<binx>
+	<!-- here servers -->
+    <servers>
+        <server>10.176.66.51</server>
+        <server>10.176.66.52</server>
+        <server>10.176.66.53</server>
+    </servers>
+    <!-- here clients -->
+    <!-- client id must include from 0 to n continuously-->
+    <!-- 'clients' part must be same on every clients -->
+    <clients>
+        <client id = "0" >10.176.66.61</client>
+        <client id = "1" >10.176.66.62</client>
+        <client id = "2" >10.176.66.63</client>
+        <client id = "3" >10.176.66.64</client>
+        <client id = "4" >10.176.66.65</client>
+    </clients>
+</binx>

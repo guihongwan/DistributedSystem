@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<binx>
+	<!-- here servers -->
+    <servers>
+        <server>10.176.66.52</server>
+        <server>10.176.66.53</server>
+        <server>10.176.66.54</server>
+        <server>10.176.66.55</server>
+        <server>10.176.66.56</server>
+    </servers>
+</binx>
